@@ -1,0 +1,4 @@
+Python 3.x
+Streamlit
+Pandas
+Surprise (for collaborative filtering)

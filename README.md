@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This is a simple movie recommendation system built with Streamlit, using collaborative filtering with the Surprise library.
+The Movie Recommendation System is a web application that allows users to receive personalized movie recommendations based on their preferences. By selecting a favorite genre and inputting a movie they like, the system utilizes collaborative filtering to suggest other movies that align with the user's taste
 
 ## Setup
 - Clone the repository: 'https://github.com/armandeshmukh/Movie-Recommendation-System.git'
